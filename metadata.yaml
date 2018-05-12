@@ -1,0 +1,33 @@
+_repo: M-moires-pour-servir---l-Histoire-de-France-sous-Napol-on-Tome-2-2-crits---Sainte-H-l-ne-par-__38696
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38696-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gourgaud, Gaspard, Baron
+    alias: Gourgaud, General (Gaspard)
+    birthdate: 1783
+    deathdate: 1852
+    gutenberg_agent_id: '39275'
+    url: http://www.gutenberg.org/2009/agents/39275
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gaspard_Gourgaud
+    - http://fr.wikipedia.org/wiki/Gaspard_Gourgaud
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2012-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38696'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 1789-1815'
+- !lcc 'DC'
+title: 'Mémoires pour servir à l''Histoire de France sous Napoléon, Tome 2/2
+
+  Écrits à Sainte-Hélène par les généraux qui ont partagé sa captivité'
+url: http://www.gutenberg.org/ebooks/38696
